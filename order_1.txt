@@ -1,0 +1,4 @@
+Client 6
+Order 1
+Products: Ethiopian Spice Tea  Barbecued Shrimp  Coriander-Herb Spice Rub  
+Price: 171.0

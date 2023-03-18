@@ -1,0 +1,4 @@
+Client 6
+Order 3
+Products: Cilantro-Tomato Salsa  Shrimp Sates with Spiced Pistachio Chutney  Red Pepper Sauce  
+Price: 172.0
